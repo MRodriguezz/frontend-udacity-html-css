@@ -1,0 +1,33 @@
+/* TITLE */
+.title {
+	font-family: verdana, sans-serif;
+	color: #666;
+}
+/* SUBTITLE*/
+.Subtitle {
+	font-family: verdana, sans-serif;
+	color: #f07c17;
+	font-weight: bold;
+}
+/* STYLE BOX */
+.box {
+	border-color: #ccc; 
+	border-width: 3px;
+	border-style: solid;
+    width: 360px;
+    position: relative;
+  	left: 9em;
+}
+/* SUBTITLE BOX */
+.listMain {
+	color: #f07c17;
+	font-weight: bold;
+	font-family: verdana, sans-serif;
+}
+li {
+	font-family: verdana, sans-serif;
+}
+/* FOCUSED IMAGE */
+img {
+	
+}
